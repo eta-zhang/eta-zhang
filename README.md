@@ -16,7 +16,7 @@
 
 ## Languages-Frameworks-Tools
 
-<div style="width: 80%; margin: 0 auto; text-align: center">
+<p align="center">
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg"  style="margin:4px">
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" style="margin:4px">
     <!-- <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" style="margin:4px"> -->
@@ -50,13 +50,13 @@
     <!-- <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" style="margin:4px"> -->
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" style="margin:4px">
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="margin:4px">
-</div>
+</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=eta-zhang&show_icons=true&theme=transparent" />
+  <img height=150 align="right" src="https://github-readme-stats.vercel.app/api?username=eta-zhang&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eta-zhang&layout=compact" />
+  <img height=150 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eta-zhang&layout=compact" />
 </a>
 
 <!---
