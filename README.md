@@ -53,10 +53,10 @@
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eta-zhang&show_icons=true&theme=transparent" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=eta-zhang&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eta-zhang&layout=compact" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eta-zhang&layout=compact" />
 </a>
 
 <!---
