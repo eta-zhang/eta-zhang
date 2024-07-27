@@ -21,12 +21,10 @@
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/eta-zhang-profile-views"/></a>
 </p> -->
 - 👋 Hi, I'm Zhiyang Zhang. </br>
-- 👀 I'm currently an intern in MSRA, Beijing. </br>
-- 🌱 I’m currently learning ... </br>
-- 💞️ I’m looking to collaborate on ... </br>
-- 📫 How to reach me: zyzhang0109@gmail.com </br>
-- 😄 Pronouns: ... </br>
-- ⚡ Fun fact: ... </br>
+- 👀 I'm currently an intern at Software Technology Center Asia, Microsoft, Beijing. </br>
+- 🌱 I’m interested in NLP, LLM, AIOps fields and am currently seeking looking for a PhD position in these areas. </br>
+- 💞️ I’m looking to collaborate on achieving The Vision of Autonomic Computing with experts in Kubernetes.</br>
+- 📫 If you have : zyzhang0109@gmail.com </br>
 
 ## Languages-Frameworks-Tools
 
