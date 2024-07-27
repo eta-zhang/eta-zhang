@@ -20,11 +20,11 @@
   <a href="https://github.com/eta-zhang/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/eta-zhang-profile-views"/></a>
 </p> -->
-- 👋 Hi, I'm Zhiyang Zhang. </br>
+- 👋 Hi, I'm Zhiyang Zhang, an 2th year postgraduate student at Nanjing University, expected to graduate in 2025. </br>
 - 👀 I'm currently an intern at Software Technology Center Asia, Microsoft, Beijing. </br>
-- 🌱 I’m interested in NLP, LLM, AIOps fields and am currently seeking looking for a PhD position in these areas. </br>
-- 💞️ I’m looking to collaborate on achieving The Vision of Autonomic Computing with experts in Kubernetes.</br>
-- 📫 If you have : zyzhang0109@gmail.com </br>
+- 🌱 I am interested in the fields of NLP, LLM and AIOps and am currently looking for PhD opportunities in these fields. </br>
+- 💞️ I’m looking to collaborate on achieving The Vision of Autonomic Computing with experts in Kubernetes. </br>
+- 📫 If you are interested in working with me or have novel ideas, please contact me at zyzhang0109@gmail.com </br>
 
 ## Languages-Frameworks-Tools
 
