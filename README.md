@@ -4,8 +4,22 @@
     <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=48&duration=5000&pause=1000&center=true&vCenter=true&random=true&width=500&height=90&lines=Hi+There!%F0%9F%91%8B;I'm+Zhiyang+Zhang!"/>
 </div>
 
-
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" /> -->
+<!-- <div style="text-align: center">
+  <a href="https://github.com/eta-zhang/ACV-LLM">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eta-zhang&repo=ACV-LLM" />
+  </a>
+  <a href="https://github.com/eta-zhang/ACV-LLM">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eta-zhang&repo=ACV-LLM" />
+  </a>
+</div> -->
+<!-- <p align="center" style="margin: 10px">
+  <a href="https://github.com/eta-zhang?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/eta-zhang?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/eta-zhang?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/eta-zhang?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/eta-zhang/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/eta-zhang-profile-views"/></a>
+</p> -->
 - 👋 Hi, I'm Zhiyang Zhang. </br>
 - 👀 I'm currently an intern in MSRA, Beijing. </br>
 - 🌱 I’m currently learning ... </br>
@@ -29,7 +43,7 @@
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" style="margin:4px">
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" style="margin:4px">
     <!-- <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" style="margin:4px"> -->
-    <!-- <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" style="margin:4px"> -->
+    <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" style="margin:4px">
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" style="margin:4px">
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" style="margin:4px">
     <!-- <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="margin:4px"> -->
@@ -47,18 +61,23 @@
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" style="margin:4px">
     <!-- <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" style="margin:4px"> -->
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" style="margin:4px">
-    <!-- <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" style="margin:4px"> -->
+    <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" style="margin:4px">
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" style="margin:4px">
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="margin:4px">
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="right" src="https://github-readme-stats.vercel.app/api?username=eta-zhang&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eta-zhang&layout=compact" />
-</a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=eta-zhang&show_icons=true&theme=transparent" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eta-zhang&layout=compact" />
+  </a>
+</p>
 
+<div style="margin: 15px">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eta-zhang&bg_color=ffffff&color=5b7288&line=9dc2de&point=828fa2&area=true&area_color=badbe9&days=21&hide_border=true&height=350&radius=16"/>
+</div>
 <!---
 eta-zhang/eta-zhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
