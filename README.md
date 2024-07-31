@@ -67,6 +67,9 @@
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" style="margin: 4px">
 </p>
 
+## Find Awesome Code from Below Pins
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=be298818b31051e5dfd79bd764fcdcc7&show_owner=true)](https://gist.github.com/eta-zhang/be298818b31051e5dfd79bd764fcdcc7)
+
 ## My GitHub Stats
 
 <p align="center">
