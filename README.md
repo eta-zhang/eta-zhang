@@ -22,7 +22,7 @@
 </p> -->
 - 👋 Hi, I'm Zhiyang Zhang, a second-year postgraduate student at Nanjing University, expected to graduate in 425. </br>
 - 👀 I'm currently an intern at Microsoft's Software Technology Center Asia in Beijing. </br>
-- 🌱 I am interested in the fields of NLP, LLM, and AIOps, and I am currently seeking a PhD opportunity in these areas. </br>
+- 🌱 I'm interested in the fields of NLP, LLM, and AIOps, and I am currently seeking a PhD opportunity in these areas. </br>
 - 💞️ I’m looking to collaborate on achieving The Vision of Autonomic Computing with experts in Kubernetes. </br>
 - 📫 If you are interested in working with me or have novel ideas, please contact me at zyzhang0109@gmail.com </br>
 
