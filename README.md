@@ -20,7 +20,7 @@
   <a href="https://github.com/eta-zhang/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/eta-zhang-profile-views"/></a>
 </p> -->
-- 👋 Hi, I'm Zhiyang Zhang, a second-year postgraduate student at Nanjing University, expected to graduate in 425. </br>
+- 👋 Hi, I'm Zhiyang Zhang, a second-year postgraduate student at Nanjing University, expected to graduate in 2025. </br>
 - 👀 I'm currently an intern at Microsoft's Software Technology Center Asia in Beijing. </br>
 - 🌱 I'm interested in the fields of NLP, LLM, and AIOps, and I am currently seeking a PhD opportunity in these areas. </br>
 - 💞️ I’m looking to collaborate on achieving The Vision of Autonomic Computing with experts in Kubernetes. </br>
